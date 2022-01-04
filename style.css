@@ -70,19 +70,25 @@ body{
     margin-left: 200px;
 }
 .section-3{
-    display: flex;
+
     background-image: url(img/bg-baby3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 550px;
 
 }
-
+.section-3 h1{
+    font-size: 50px;
+    padding-top: 40px;
+    text-align: center;
+    
+}
 .parent{
     display: flex;
     margin-top: 70px;
 }
 .baby-type{
+
     width: 50%;
     border-left: 5px solid lightcoral;
     margin-top: 2%;
