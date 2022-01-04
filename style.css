@@ -62,7 +62,7 @@ body{
     background-image: url(img/bg-baby2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 600px;
     padding-left: 50px;
 }
 .section-2 img {
@@ -71,4 +71,29 @@ body{
 }
 .section-3{
     display: flex;
+    background-image: url(img/bg-baby3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.parent{
+    display: flex;
+    margin-top: 70px;
+}
+.baby-type{
+    width: 50%;
+    border-left: 5px solid lightcoral;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-left: 15px;
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 10px;
+    height: 250px;
+
+}
+.baby-type h2{
+    font-size: 40px;
 }
