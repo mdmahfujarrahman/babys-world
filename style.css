@@ -1,0 +1,38 @@
+*{
+
+}
+body{
+    font-family: 'Ubuntu', sans-serif;;
+}
+section{
+    display: flex;
+    
+}
+.head-bio{
+    width: 50%;
+    text-align: justify;
+
+}
+.head-bio p{
+    padding-bottom: 10px;
+}
+.head-img{
+    margin-left: 70px;
+    margin-top: 25px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px gray;
+}
+.head-bio h1{
+    font-size: 50px;
+}
+.brand-color{
+    color: #D35400;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(#F5B041, #E74C3C );
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
