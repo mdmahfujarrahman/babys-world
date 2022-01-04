@@ -67,5 +67,8 @@ body{
 }
 .section-2 img {
     height: 500px;
-    
+    margin-left: 200px;
+}
+.section-3{
+    display: flex;
 }
